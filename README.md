@@ -1,0 +1,3 @@
+# Translations
+
+### @eslint/json

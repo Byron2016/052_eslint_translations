@@ -1,0 +1,12 @@
+{
+  "name": "052_eslint_translations",
+  "version": "1.0.0",
+  "description": "- [English](https://github.com/eslint/json/blob/main/README.md) - [Spanish](https://github.com/eslint/json/blob/main/docs/es/README.md)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
