@@ -11,8 +11,9 @@
 
 ### @eslint/markdown
 
-| LANGUAGE                                                          | LETCR                                    | LINK |
-| ----------------------------------------------------------------- | ---------------------------------------- | ---- |
-| [English](https://github.com/eslint/markdown/blob/main/README.md) | 876cf0f6190051ff2935a663a6b9a4733d094225 |      |
+| LANGUAGE                                                          | LETCR                                    | LINK                                                                                                          |
+| ----------------------------------------------------------------- | ---------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| [English](https://github.com/eslint/markdown/blob/main/README.md) | 876cf0f6190051ff2935a663a6b9a4733d094225 |                                                                                                               |
+| Spanish                                                           | 876cf0f6190051ff2935a663a6b9a4733d094225 | [Readme-es.md](https://github.com/Byron2016/052_eslint_translations/blob/main/src/markdown/docs/es/README.md) |
 
 - LETCR: Last English Translation Commit Reference
