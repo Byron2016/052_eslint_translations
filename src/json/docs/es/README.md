@@ -209,11 +209,6 @@ De manera similar, muchas de las reglas de `eslint-plugin-jsonc` prohíben espec
 
 Se aceptan otras reglas que detecten posibles problemas en JSON. Puede [abrir un problema](https://github.com/eslint/json/issues/new/choose) para proponer una nueva regla.
 
-## Translations
-
--   [English](https://github.com/eslint/json/blob/main/README.md)
--   [Spanish](https://github.com/eslint/json/blob/main/docs/es/README.md)
-
 ## Licencia
 
 Apache 2.0
